@@ -1,0 +1,7 @@
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\bin\Debug\ExpresionesRegularesCSharp.exe.config
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\bin\Debug\ExpresionesRegularesCSharp.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\bin\Debug\ExpresionesRegularesCSharp.pdb
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\obj\Debug\ExpresionesRegularesCSharp.csprojAssemblyReference.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\obj\Debug\ExpresionesRegularesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\obj\Debug\ExpresionesRegularesCSharp.exe
+C:\Users\AXL\Documents\Visual Studio 2017\Projects\ExpresionesRegularesCSharp\ExpresionesRegularesCSharp\obj\Debug\ExpresionesRegularesCSharp.pdb
