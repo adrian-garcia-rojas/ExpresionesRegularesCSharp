@@ -11,11 +11,14 @@ namespace ExpresionesRegularesCSharp
     {
         static void Main(string[] args)
         {
-            Regex regex = new Regex(@"^[a-z]+$"); // ^ = representa el inicio de nuestra cadena
+            Regex regex = new Regex(@"^[a-zA-Z]+@[a-zA-Z]+\.[a-zA-Z]{2,3}$"); // ^ = representa el inicio de nuestra cadena
                                             // $ = representa el final de la cadena
                                             // + = debe de haber por lo menos una letra o al infinito
                                             // * = debe puede haber algo o al infinito
-            if (regex.IsMatch("dgfdgfdgd4"))
+                                            // . = puede venir cualquier cosa
+                                            // para validar un punto debemos de poner \.
+                                            // [a-zA-Z]{2,3} puede ver un dominio o convinacion de min 2 letras hasta 3
+            if (regex.IsMatch("adi@gmail.com"))
                 Console.WriteLine("si");
             else Console.WriteLine("no");
 
