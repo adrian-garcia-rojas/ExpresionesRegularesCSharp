@@ -11,8 +11,11 @@ namespace ExpresionesRegularesCSharp
     {
         static void Main(string[] args)
         {
-            Regex regex = new Regex(@"\d");
-            if (regex.IsMatch("79798"))
+            Regex regex = new Regex(@"^[a-z]+$"); // ^ = representa el inicio de nuestra cadena
+                                            // $ = representa el final de la cadena
+                                            // + = debe de haber por lo menos una letra o al infinito
+                                            // * = debe puede haber algo o al infinito
+            if (regex.IsMatch("dgfdgfdgd4"))
                 Console.WriteLine("si");
             else Console.WriteLine("no");
 
